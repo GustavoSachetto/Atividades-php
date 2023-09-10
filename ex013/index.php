@@ -9,8 +9,8 @@
     </head>
     <body>
         <?php 
-            $valor1 = $_GET['valor1']??0;
-            $valor2 = $_GET['valor2']??0;
+            $valor1 = $_GET['valor1'];
+            $valor2 = $_GET['valor2'];
         ?>
         <main>
             <form action="<?= $_SERVER['PHP_SELF'] ?>" method="get">
