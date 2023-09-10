@@ -9,7 +9,7 @@
 
     $cotacao = $dados["value"][0]["cotacaoCompra"];
 
-    $real = $_REQUEST["numero"] ?? 0;
+    $real = $_REQUEST["numero"];
 
     $dolar = $real / $cotacao;
 
