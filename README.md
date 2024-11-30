@@ -35,7 +35,11 @@ Criando um conversor de moeda básico atráves do método POST.
 ## 010 - Conversor moeda API
 Criando um conversor de moeda através da API do olinda.
 
-# 011 - Formatando números decimais.
+## 011 - Formatando números decimais
 Formatando número decimal pela função number_format.
 
-# 012 - 
+## 012 - Super globais
+Entendendo as variáveis globais do php como $_REQUEST, $_SESSION e $_SERVER.
+
+## 013 - Soma de valores
+Aplicando a soma de valores pelo método GET.
